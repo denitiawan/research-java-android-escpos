@@ -18,6 +18,13 @@
     compileSdk : 30
     minSdk : 19
     targetSdk : 30
+    
+    # gradle -------
+    gradle plugin : 7.0.3
+    gradle version : 7.3.3
+    
+    # java -------
+    java version : 8
 
     # Librarry -------
     ESCPOS-ThermalPrinter : https://github.com/DantSu/ESCPOS-ThermalPrinter-Android
