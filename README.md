@@ -9,7 +9,7 @@ This repository have example code for setup and implementation [ESCPOS](https://
 
 
 # How to setup ESCPOS on your java android project?
-https://github.com/denitiawan/research-electron-react-boilerplate-printthermal/blob/main/research-logs/research-log-17052023-setupESCPOSonElectronReactBoilerplateWithThermalPrinter.md
+https://github.com/denitiawan/research-java-android-escpos/blob/main/research-logs/research-logs-22052023-setupEscposWithBluetoothAdapter.md
 
 # How to test this repo?
 - `clone` this project
