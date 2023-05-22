@@ -10,6 +10,7 @@ This repository have example code for setup and implementation [ESCPOS](https://
 
 
 # Printing Processing Flow
+![image](https://github.com/denitiawan/research-java-android-escpos/assets/11941308/b8370b50-8b7c-4c21-9e62-f6c22441abc9)
 
 # Result
 - layout - Home
