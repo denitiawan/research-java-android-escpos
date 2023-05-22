@@ -149,7 +149,7 @@ see full source code on class  :  EscPosReceiptFormat.java
      * Format receipt custom by https://github.com/denitiawan
      *
      * @param context from Activity
-     * @param printer from AsyncEscPosPrinter
+     * @param printer from EscPosPrinter
      * @return
      */
     private static String formatReceiptCustom(Context context, EscPosPrinter printer, Transaction transaction) {
