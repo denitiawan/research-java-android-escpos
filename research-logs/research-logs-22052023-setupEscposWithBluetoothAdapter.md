@@ -5,6 +5,13 @@
 |22-mei-2023|[Deni Setiawan](https://github.com/denitiawan)|
 # Setup EscPos with Bluetooth Adapter on Java Android Project
 
+## Overviews
+- [Requirement](#requirement)
+- [Gradle](#gradle)
+- [Printing Processing Flows](#printing-processing-flows)
+- [Custom format receipt](#custom-format-receipt)
+- [Result](#result)
+
 ## Requirement
 ```
     # Android -------
