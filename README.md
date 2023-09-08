@@ -1,11 +1,10 @@
 # What is this?
-This repository have example code for setup and implementation [ESCPOS](https://github.com/DantSu/ESCPOS-ThermalPrinter-Android) librarry on [Java Android](https://developer.android.com/codelabs/build-your-first-android-app#0) project, for printing the receipt with Thermal Printer (Bluetooth Adapter)
+This repository  just documentation for how to implementation [ESCPOS](https://github.com/DantSu/ESCPOS-ThermalPrinter-Android) librarry on [Java Android](https://developer.android.com/codelabs/build-your-first-android-app#0) project, for printing the receipt with Thermal Printer (Bluetooth Adapter)
 
 # Overviews
 - [Printing Processing Flow](#printing-processing-flow)
 - [Result](#result)
 - [How to setup ESCPOS on your java android project](#how-to-setup-escpos-on-your-java-android-project)
-- [How to test this repo](#how-to-test-this-repo)
 - [Research Logs](#research-logs)
 
 
@@ -31,13 +30,6 @@ This repository have example code for setup and implementation [ESCPOS](https://
 # How to setup ESCPOS on your java android project
 https://github.com/denitiawan/research-java-android-escpos/blob/main/research-logs/research-logs-22052023-setupEscposWithBluetoothAdapter.md
 
-# How to test this repo
-- `clone` this project
-- open project on `android studio`
-- `build gradles` automate download all librarries by `app/build.gradle
-- connecting to device (usb or wifi)
-- run app
-- klik button `test printer`
 
 # Research Logs
 https://github.com/denitiawan/research-java-android-escpos/blob/main/research-logs/readme.md
